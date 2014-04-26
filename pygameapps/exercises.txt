@@ -1,0 +1,4 @@
+1. Change movebox for a diagonal motion starting from top left
+2. Create multiple boxes moving in different directions
+3. Create random movement of the box but make sure that animation effect is not lost
+

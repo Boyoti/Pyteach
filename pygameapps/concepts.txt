@@ -1,0 +1,27 @@
+The concepts they need to understand to develop games.
+
+1. Game loop
+2. BLITting images
+3. Double buffering (flip in the case of Pygame)
+4. Animation
+5. Event handling
+6. Data structures (to keep game objects)
+7. classes, inheirtance
+8. Game physics (for certain types of games)
+9. Game strategies 
+10.Geometry 
+11.Keyboard, mouse, touch handling (special events)
+
+To teach these concepts we need to show them how to:
+
+1. Draw a background (static)
+2. Dynamically change a background
+3. Background from a color palette
+4. Background from one or more images
+5. Layers
+6. Drawing objects
+7. sprites
+8. Animation
+9. Interaction
+10. Simulation
+

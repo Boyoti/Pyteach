@@ -1,0 +1,4 @@
+1. Use the tutil to draw a triangle, square, rectangle
+2. Modify the iShapes1 program to add more shapes (septagon, octogon, decagon)
+3. Modify the iShapes1 program to accept the side length as a parameter
+

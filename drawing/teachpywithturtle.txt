@@ -1,0 +1,64 @@
+Teaching Python programming with turtle.
+
+Draw a line - line.py
+- Teaches them how to import turtle module, and one turtle command
+
+Draw a square - square.py
+-Teaches for loop, right command
+
+Draw a pentagon - pentagon.py
+- Shows how to abstract shapes (from 4 to 5)
+
+Exercise - draw a triangle
+
+Draw a shape - shape.py 
+- Teaches them how to abstract drawing a shape using a function. Teaches them how to define a function, how to reuse it to draw different shapes
+
+Interacte Shape - iShape1, iShape2
+- Accepts user input on the size and number of sides. 
+- Teaches sys module and how to accept command line parameters
+- Teaches raw input and how to convert input strings into numbers and call shapes function. 
+
+Draw a bird - bird.py
+Shows how to draw arcs
+
+Draw a sky - sky.py
+How to draw multiple shapes - sun, birds
+
+Scribble - scribble.py
+- Generating random scribbles with turtle
+- Teaches while, random choise of left/right
+
+Draw a tree - tree.py
+- How to draw complex shapes (and a bit of recursion)
+- How to move (without drawing)
+
+Draw mountains - mountain.py
+- How to draw inverted triangle
+
+Draw a mountain range - mountainrange.py
+- Draw several mountains together
+- Use random numbers to change the shape and size of mountains
+- Draw a ground line
+
+Draw a scene - scene.py
+Shows how to draw a a variety of objects and create a scene
+
+compound objects - stickfigure.py
+- How to draw various versions of a stick figure
+
+save and load scenes - scenesdb.py
+- How to abstract drawing into a set of data structures and save them
+- How to load abstract data structures and create scenes
+- reading and writing to files.
+
+Create and reuse a shapes database - shapesdb.py
+- Shows how to store a shape in a database
+- How to retrieve a shape
+- How to use data to load and create a shape
+
+
+
+
+
+
