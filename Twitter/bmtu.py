@@ -12,8 +12,7 @@ screen_name = None
 
 #Please Replace Access Token key and secret by the users token key and secret
 #Relace consumer key and secret by the app's consumer key and secret
-TweetOuth=Tweetoauth('786022-jhAqs0zbtKfc2shlkVqxBh3wTUaGEQ3lmtk7i5WNQ','cNeEncAtskelXwUTQKiJPAiT3x0FAVRJMrqspxXcWAE','i8UBkayvyDbBGKABGBTAbA', 'tkocm4ejnoMBCt7qy03R8P5lmHV75vUl0ZOQiuIgo')
-
+TweetOuth=Tweetoauth("")
 
     
 def fetch():
