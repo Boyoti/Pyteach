@@ -14,4 +14,4 @@ for i in range(count):
 	x = random()*100 # find a random coordinates between 1 and 100
 	y = random()*100 
 	t.goto(x,y)
-raw_input()
+input()

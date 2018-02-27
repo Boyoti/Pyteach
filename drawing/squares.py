@@ -17,7 +17,7 @@ for i in range(count):
 	shape(length,4)
 	
 
-raw_input()
+input()
 
 
 

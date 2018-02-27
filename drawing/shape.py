@@ -16,4 +16,4 @@ for i in range(6):
 	sides = i+3
 	length = 60
 	shape(length, sides)
-raw_input()
+input()

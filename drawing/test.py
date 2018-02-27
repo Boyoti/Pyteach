@@ -13,16 +13,15 @@ def hideTurtle(x,y):
     return
 
 def main():
-    #t.speed(20)
-    #t.shapesize(1000,1000)
+    t.speed(20)
+    t.shapesize(1000,1000)
     t.up()
     t.goto(1000,0)
-    #t.ht()
-    #t.onkey(showTurtle,"a")
-    #t.listen()
+    t.ht()
+    t.onkey(showTurtle,"a")
+    t.listen()
     t.onclick(getPos)
     t.onrelease(hideTurtle)
     t.mainloop()
     raw_input(">")
 main()
-
