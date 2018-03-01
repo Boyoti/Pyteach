@@ -23,5 +23,5 @@ def main():
     t.onclick(getPos)
     t.onrelease(hideTurtle)
     t.mainloop()
-    raw_input(">")
+    input(">")
 main()

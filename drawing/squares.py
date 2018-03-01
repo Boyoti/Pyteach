@@ -6,7 +6,7 @@ from random import *
 from tutil import *
 
 count  = 10
-t.tracer(5)
+#t.tracer(5)
 move(-100,-100)
 
 for i in range(count):
@@ -15,9 +15,6 @@ for i in range(count):
 	move(x,y)
 	length = int(random()*100)
 	shape(length,4)
-	
+
 
 input()
-
-
-
